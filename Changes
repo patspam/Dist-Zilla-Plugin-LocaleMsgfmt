@@ -1,7 +1,8 @@
-Revision history for Dist-Zilla-Plugin-LocaleMsgfmt
+Revision history for {{ $dist->name }}
 
-{{$NEXT}}
+{{ $NEXT }}
+    - Better support for dzil powered releases
 
 1.100970  2010-04-07 14:50:00 EST5EDT
-        First version
+    - First version
 
