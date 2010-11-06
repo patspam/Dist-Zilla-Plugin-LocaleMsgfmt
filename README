@@ -1,15 +1,9 @@
-PERL MODULE DISTRIBUTION NAME
+Dist-Zilla-Plugin-LocaleMsgfmt Perl CPAN distribution
 
-    Dist-Zilla-Plugin-LocaleMsgfmt
-
-DOWNLOAD, INSTALL AND DOCS
-
-    Please refer to the CPAN page located at:
+For online documentation, please visit: 
 
     http://search.cpan.org/dist/Dist-Zilla-Plugin-LocaleMsgfmt
 
-ISSUE TRACKER AND CODE REPOSITORY
-
-    Please refer to the GitHub page located at:
+To report bugs and browse the code repository, please visit: 
 
     http://github.com/pdonelan/Dist-Zilla-Plugin-LocaleMsgfmt

@@ -24,6 +24,9 @@ with 'Dist::Zilla::Role::BeforeBuild';
 
 =method mvp_multivalue_args
 
+For Config::MVP - specify setting names that may have multiple values and that will always
+be stored in an arrayref
+
 =cut
 
 sub mvp_multivalue_args { qw(locale) }

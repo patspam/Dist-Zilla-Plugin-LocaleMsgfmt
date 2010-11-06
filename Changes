@@ -1,13 +1,14 @@
 Revision history for {{ $dist->name }}
 
 {{ $NEXT }}
+    * Updated to use latest version of Dist::Zilla::PluginBundle::PDONELAN
 
 1.201     2010-10-25 17:50:26 America/New_York
-    - GitHub README
+    * GitHub README
 
 1.200     2010-10-25 16:24:46 America/New_York
-    - Better support for dzil powered releases
+    * Better support for dzil powered releases
 
 1.100970  2010-04-07 14:50:00 EST5EDT
-    - First version
+    * First version
 
