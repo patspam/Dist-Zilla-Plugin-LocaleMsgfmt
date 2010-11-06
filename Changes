@@ -1,6 +1,8 @@
 Revision history for {{ $dist->name }}
 
 {{ $NEXT }}
+
+1.202     2010-11-05 23:47:26 America/New_York
     * Updated to use latest version of Dist::Zilla::PluginBundle::PDONELAN
 
 1.201     2010-10-25 17:50:26 America/New_York
